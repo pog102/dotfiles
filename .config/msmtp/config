@@ -1,0 +1,12 @@
+account ernestasdamanskis@gmail.com
+host smtp.gmail.com
+port 587
+from ernestasdamanskis@gmail.com
+user ernestasdamanskis@gmail.com
+passwordeval "pass ernestasdamanskis@gmail.com"
+auth on
+tls on
+tls_trust_file	/etc/ssl/certs/ca-certificates.crt
+logfile /home/chad/.config/msmtp/msmtp.log
+# tls_starttls
+

@@ -1,0 +1,1659 @@
+Mono path[0] = '/home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Managed'
+Mono config path = '/home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/MonoBleedingEdge/etc'
+Preloaded 'libsteam_api.so'
+Display 0 'MSI G271 27"': 1920x1080 (primary device).
+Desktop is 1920 x 1080 @ 144 Hz
+Initialize engine version: 2019.4.13f1 (518737b1de84)
+[Subsystems] Discovering subsystems at path /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: Mesa Intel(R) UHD Graphics (CML GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 22.1.1
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_t
+exture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 11696976
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.106 seconds
+Default vsync count 1
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 144 Hz
+UnloadTime: 0.377793 ms
+Successfully Loaded Haglet Assemblies
+Found SystemLanguage English (10): 2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[S_API] SteamAPI_Init(): Loaded '/home/chad/.local/share/Steam/linux64/steamclient.so' OK.
+Setting breakpad minidump AppID = 701160
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198396788215 [API loaded no]
+Got AppID: 701160 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Steam: Logged in as: pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/DataPlatform
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libDataPlatform
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Storage
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libStorage
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Marketplace
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMarketplace
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Friends
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libFriends
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/Multiplayer
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libMultiplayer
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/SavedGames
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames.so
+Fallback handler could not load library /home/chad/.local/share/Steam/steamapps/common/Kingdom Two Crowns/KingdomTwoCrowns_Data/Mono/libSavedGames
+ProgramDirector begun Preload 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+UNet Router setup 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingLoaderScene 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+USING RENDER PIPELINE: screen manager not null 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun Engagement 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun InitialisingFiler 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun ShowSaveWarningScreen 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Steam: User Stats Received
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun PlayfabLogin 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingGlobalSaveData 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Found SystemLanguage English (10): 2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Load, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingIslandSaveData 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Biome Data: Biome/DeadlandsBiomeData 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Load, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun ShowingSplash 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingMainScene 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Managers.Inst.InitAll() 1229 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TOUCH . 0 DPI. Deadzone 10-30 pixels (capped 1.0). Res 1920x1080 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Game created. Version: 1.1.16 Revision: 17147 Hash: e230f674a5 Branch: origin/twocrowns/norselands-patch-2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting render size to 1920x1080 (Camera 1) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting water size to 640x360 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting render size to 1920x1080 (Camera 0) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting water size to 640x360 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun BuildingLevel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+Uploading Crash Report
+NullReferenceException: Object reference not set to an instance of an object
+  at BiomeSpriteSwapper.OnEnable () [0x0000c] in <dec30a9d5ed3402589b661da920d3640>:0 
+UnityEngine.Object:Internal_InstantiateSingleWithParent_Injected(Object, Transform, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingleWithParent(Object, Transform, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion, Transform)
+UnityEngine.Object:Instantiate(GameObject, Vector3, Quaternion, Transform)
+IslandSaveData:TryCreateOrFind(ObjectData)
+IslandSaveData:TryPopObjectsToScene()
+<_Run>d__25:MoveNext()
+Coatsink.Common.Haglet:Execute()
+Coatsink.Common.Haglet:TryExecute(ExecParams)
+Coatsink.Common.Haglet:Coatsink.Common.HagletEvent.IResponder.OnEvent()
+Coatsink.Common.HagletEvent:Happen(Single, Boolean)
+Coatsink.Common.HagletTrigger:Trigger(Single, Boolean)
+Coatsink.Common.HagletBehaviourTime:Update()
+ 
+(Filename: <dec30a9d5ed3402589b661da920d3640> Line: 0)
+
+HagletEvent Default Update automatically increased its responder capacity to 150 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Setting portal impassable 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Apply state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] New cave state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: True isDangerous: True, enemManager: Enemies attacking: True retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CampaignSaveData.ApplyToScene:
+newIsland: False	sailingIn: False	newReignForIslandPostLoss: False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+During loading, found that the WHARF should be active 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+HagletEvent Default Update automatically increased its responder capacity to 225 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 206 unused Assets to reduce memory usage. Loaded Objects now: 90168.
+Total: 91.149889 ms (FindLiveObjects: 4.740431 ms CreateObjectMapping: 2.617491 ms MarkObjects: 83.578400 ms  DeleteObjects: 0.213056 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Steam: Achievement Stored
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Position 1 @ 7.565 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Position 2 @ 6.922 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Position 3 @ 7.25 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Position 1 @ 32.685 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] New cave state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 90262.
+Total: 91.440529 ms (FindLiveObjects: 7.643345 ms CreateObjectMapping: 4.664975 ms MarkObjects: 78.964185 ms  DeleteObjects: 0.167296 ms)
+
+Couldn't find position for shop 'WorkshopLeft' within range +/-45.59->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopRight' within range +/-30.56->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Forge' within range +/-8.75->45.59 (increment = 0.38), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun RunningGame 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Dlbloodmoon at time 15.08171 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Received mediated sync request for Tower Knight(Clone) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Immediately registering mediated syncs for Tower Knight(Clone) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopLeft' within range +/-45.59->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopRight' within range +/-30.56->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Forge' within range +/-8.75->45.59 (increment = 0.38), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 47  spawn day 47 aiming at 01:00 takes 2.88755 hours; will spawn at 22:06. Day type: recoveryDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopLeft' within range +/-45.59->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopRight' within range +/-30.56->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Forge' within range +/-8.75->45.59 (increment = 0.38), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopLeft' within range +/-45.59->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopRight' within range +/-30.56->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Forge' within range +/-8.75->45.59 (increment = 0.38), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Finalize Emerge 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFour 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Other at time 11.4659 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 48  spawn day 48 aiming at 01:00 takes 7.218875 hours; will spawn at 17:46. Day type: firstDayOfSeason 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 48  spawn day 48 aiming at 01:00 takes 8.4205 hours; will spawn at 16:34. Day type: firstDayOfSeason 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopLeft' within range +/-45.59->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'WorkshopRight' within range +/-30.56->0 (increment = -0.35), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Forge' within range +/-8.75->45.59 (increment = 0.38), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Finalize Emerge 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Pianosingy at time 6.705657 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Slot (2) @ -57.41606 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Slot @ -55.38481 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Slot (3) @ -57.97856 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Going to Tower: Guard Slot (1) @ -55.79106 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track kodamasunset at time 21.48165 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Try delete campaign: 0 challenge: 0 land: 4 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingIslandSaveData 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Load, Failure, MissingData 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun ShowingSplash 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun LoadingMainScene 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Managers.Inst.InitAll() 31384 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TOUCH . 0 DPI. Deadzone 10-30 pixels (capped 1.0). Res 1920x1080 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Game created. Version: 1.1.16 Revision: 17147 Hash: e230f674a5 Branch: origin/twocrowns/norselands-patch-2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting render size to 1920x1080 (Camera 1) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting water size to 640x360 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting render size to 1920x1080 (Camera 0) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting water size to 640x360 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun BuildingLevel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+F 31384 Loading scene blocks 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 1239 unused Assets to reduce memory usage. Loaded Objects now: 54607.
+Total: 53.693444 ms (FindLiveObjects: 3.363918 ms CreateObjectMapping: 3.297699 ms MarkObjects: 43.344454 ms  DeleteObjects: 3.686937 ms)
+
+F 31444 Load Complete 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+No random seed specified, generating random... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+LevelLayout: 38 REQUIRED blocks placed. Filled 545 / 600 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+LevelLayout: Generated Level (TOTAL WIDTH 609): 
+100 -- BeachLeft_Blocks
+95 -- Forest_Blocks
+82 -- Portal_Blocks
+78 -- GemChest_Blocks
+75 -- Forest_Blocks
+69 -- Forest_Blocks
+68 -- Steed Sakura_Blocks
+63 -- Portal_Blocks
+50 -- Clearing_Blocks
+48 -- Bridge Very Short_Blocks
+46 -- Forest_Blocks
+45 -- BeggarCamp_Blocks
+41 -- Portal_Blocks
+36 -- GemChest_Blocks
+24 -- HermitHouseHorn_Blocks
+17 -- Clearing Large_Blocks
+13 -- PlayerSpawn_Blocks
+04 -- Forest_Blocks
+00 -- StartingAreaTight_Blocks
+06 -- Forest_Blocks
+18 -- Bridge Double_Blocks
+28 -- Portal_Blocks
+32 -- Clearing_Blocks
+39 -- Statue Knight_Blocks
+42 -- BeggarCamp_Blocks
+45 -- Clearing Small_Blocks
+49 -- Portal_Blocks
+67 -- Forest_Blocks
+68 -- Forest_Blocks
+70 -- BeggarCamp_Blocks
+70 -- Bridge_Blocks
+71 -- GemChest_Blocks
+73 -- Forest_Blocks
+74 -- Portal_Blocks
+90 -- Forest_Blocks
+90 -- Forest_Blocks
+92 -- Bridge Medium_Blocks
+100 -- CliffRight_Blocks
+110 -- CaveSection_Blocks
+110 -- CaveSection_Blocks
+110 -- CaveSection_Blocks
+110 -- CaveSection_Blocks
+110 -- CaveSection_Blocks
+120 -- CaveEndRight_Blocks 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+level generated with randoms: Seed: -1125328973 Rand count 193 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Generating with seed -1125328973 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Checking become safe, isDaytime False isSafe: False isDangerous: True, enemManager: Enemies attacking: True retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CampaignSaveData.ApplyToScene:
+newIsland: True	sailingIn: True	newReignForIslandPostLoss: False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 48 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 49 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 50 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 51 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 52 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 53 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 54 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 55 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 56 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Adding wave for day: 57 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 791 unused Assets to reduce memory usage. Loaded Objects now: 99006.
+Total: 80.753230 ms (FindLiveObjects: 6.534748 ms CreateObjectMapping: 2.282139 ms MarkObjects: 68.760930 ms  DeleteObjects: 3.174539 ms)
+
+Wave (Left) on day 48  spawn day 48 aiming at 01:00 takes 5.5 hours; will spawn at 19:30. Day type: firstDayOfSeason 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 48  spawn day 48 aiming at 01:00 takes 2.9 hours; will spawn at 22:06. Day type: firstDayOfSeason 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ProgramDirector begun RunningGame 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Clearday at time 7.34754 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 49  spawn day 49 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 49  spawn day 49 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[TROLL] Troll P10 - Pickup loot Coin_deadlands P28 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[TROLL] Troll P9 - Pickup loot Coin_deadlands P29 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[TROLL] Troll P10 - Destroying loot Coin_deadlands P28 (Coin) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[TROLL] Troll P9 - Destroying loot Coin_deadlands P29 (Coin) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Other at time 11.34325 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+14.77074 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 50  spawn day 50 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 50  spawn day 50 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Floodpiano at time 8.990137 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 51  spawn day 51 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 51  spawn day 51 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Sparkler at time 5.602089 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 52  spawn day 52 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 52  spawn day 52 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Sadmorning at time 8.397497 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 53  spawn day 53 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Purplesunset at time 0.003557087 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 53  spawn day 53 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: -8 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 54  spawn day 54 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 54  spawn day 54 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Strangenight at time 7.083444 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Left) on day 55  spawn day 55 aiming at 01:00 takes 5.0625 hours; will spawn at 19:56. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Wave (Right) on day 55  spawn day 55 aiming at 01:00 takes 2.4625 hours; will spawn at 22:32. Day type: normalDay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime False isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Checking become safe, isDaytime True isSafe: False isDangerous: False, enemManager: Enemies attacking: False retaliations: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Couldn't find position for shop 'Scythe' within range +/-0->8.75 (increment = 0.26), adding to queue... 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Playing track Mu Dl Pianosingy at time 7.485077 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: InMenu 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu OnCancel 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: -8 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RP]Setting rich presence: LandFive 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SteamPlatformManager.CheckIfDlcIsAvailable. AppId_t:1708680, isAvailable:False. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DPI 0 (50) h: 21.6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 1. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 2. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+pogpog 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[CAVE] Saving state: None 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IslandSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GlobalSaveData Save, Success 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Menu._ShowMainPanel 3. targetDepth: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 7f25affff640 -> priority: 1 
+  Thread -> id: 7f25de8fd640 -> priority: 1 
+  Thread -> id: 7f2538e8a640 -> priority: 1 
+  Thread -> id: 7f251afff640 -> priority: 1 

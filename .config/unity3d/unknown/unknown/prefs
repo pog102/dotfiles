@@ -1,0 +1,20 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="BlockLoginScreenPopUp" type="int">1</pref>
+	<pref name="PlayfabLoginHide" type="int">3</pref>
+	<pref name="PlayfabLoginShow" type="int">3</pref>
+	<pref name="PlayfabPersistentLogin1" type="int">0</pref>
+	<pref name="PlayfabUserLicense" type="int">0</pref>
+	<pref name="SaveTimeStamp" type="string">MjAyMi0wNi0xMVQxNToxNToxNA==</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Height Default" type="int">1080</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native Default" type="int">1</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1920</pref>
+	<pref name="Screenmanager Resolution Width Default" type="int">1920</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="unity.cloud_userid" type="string">Y2MxYjE1Nzg0MzU4ODNiNzhiYmE0YTRiODE0YTk5MWI=</pref>
+	<pref name="unity.player_session_count" type="string">Mw==</pref>
+	<pref name="unity.player_sessionid" type="string">NDk0MzcyNjM0NTc3OTk1NTUwMQ==</pref>
+</unity_prefs>
