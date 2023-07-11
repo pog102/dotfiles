@@ -163,9 +163,9 @@
 "network": {
     "interface": "wlan0",
     "format": " Disabled",
-    "format-wifi": " </span> {signalStrength}%",
+    "format-wifi": "  {signalStrength}%",
     "format-ethernet": "{ipaddr}/{cidr} ",
-    "format-disconnected": "󰖪</span> Disconnected", //An empty format will hide the module.
+    "format-disconnected": "󰖪 Disconnected", //An empty format will hide the module.
     "tooltip-format": "{ifname} via {gwaddr} ",
     "tooltip-format-wifi": "{ipaddr}\n{bandwidthUpBits}\n{bandwidthDownBits}",
     "tooltip-format-ethernet": "{ifname} ",
@@ -177,8 +177,8 @@
 
     "battery": {
         "on-click": "~/.bin/gamemode",
-      "format": "{icon}</span> {capacity}%",
+      "format": "{icon} {capacity}%",
       "format-icons": ["", "", "", "", "", "", "", "", "", ""],
-      "format-charging": "</span> {capacity}%"
+      "format-charging": " {capacity}%"
     },
 }
