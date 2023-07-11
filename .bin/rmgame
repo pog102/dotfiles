@@ -1,8 +1,0 @@
-#!/bin/bash
-SAVEIFS=$IFS
-IFS=$(echo -en "\n\b")
-for i in $HOME/.local/share/applications/*; do
-    [ ! -f $(cat $i | grep "Categories=Game") ] && rm $i
-   # echo "$i"
-done
-IFS=$SAVEIFS

@@ -1,4 +1,0 @@
-#!/bin/sh
-cat <<EOF | xmenu | sh &
-Screenshot	maim -s | xclip -selection clipboard -t image/png
-EOF
