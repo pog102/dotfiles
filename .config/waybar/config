@@ -159,7 +159,7 @@
 "network": {
     "interface": "wlan0",
     "format": " Disabled",
-    "format-wifi": " {signalStrength}%",
+    "format-wifi": "  {signalStrength}%",
     "format-ethernet": "{ipaddr}/{cidr} ",
     "format-disconnected": "󰖪 Disconnected", //An empty format will hide the module.
     "tooltip-format": "{ifname} via {gwaddr} ",
