@@ -1,6 +1,6 @@
 general {
     cursor_inactive_timeout = 4
-    col.active_border = rgba(948C77ee) rgba(A3A08Aee) 45deg
+    col.active_border = rgba(7194A4ee) rgba(A2888Eee) 45deg
     col.inactive_border = rgba(595959aa)
     layout = dwindle
 }
