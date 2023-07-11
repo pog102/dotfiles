@@ -1,0 +1,7 @@
+#!/bin/sh
+ find . -maxdepth 1 -printf '%f\n' | fzf \
+--multi \
+--pointer='→' \
+--marker='󰆴' \
+--header='Shift+Tab' | xargs -I {} rm -rf {}
+#rm -rf {}
