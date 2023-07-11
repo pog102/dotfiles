@@ -1,0 +1,31 @@
+map <S-Down> scroll full-down
+map <S-Up> scroll full-up
+set recolor "true"
+set completion-bg "#11171b"
+set completion-fg "#e5beb9"
+set completion-group-bg "#11171b"
+set completion-group-fg "#C67E81"
+set completion-highlight-bg "#e5beb9"
+set completion-highlight-fg "#11171b"
+set recolor-lightcolor "#11171b"
+set recolor-darkcolor "#e5beb9"
+set default-bg "#11171b"
+set inputbar-bg "#11171b"
+set inputbar-fg "#e5beb9"
+set notification-bg "#11171b"
+set notification-fg "#e5beb9"
+set notification-error-bg "#927884"
+set notification-error-fg "#e5beb9"
+set notification-warning-bg "#927884"
+set notification-warning-fg "#e5beb9"
+set statusbar-bg "#11171b"
+set statusbar-fg "#e5beb9"
+set index-bg "#11171b"
+set index-fg "#e5beb9"
+set index-active-bg "#e5beb9"
+set index-active-fg "#11171b"
+set render-loading-bg "#11171b"
+set render-loading-fg "#e5beb9"
+set window-title-home-tilde true
+set statusbar-basename true
+set selection-clipboard clipboard
