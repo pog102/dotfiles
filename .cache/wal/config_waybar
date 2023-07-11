@@ -1,12 +1,8 @@
 {
   "layer": "top",
-    "modules-left": ["custom/arch","custom/wf", "wlr/workspaces"],
+    "modules-left": ["custom/wf", "wlr/workspaces"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/weather", "custom/bb", "custom/pacman", "backlight", "pulseaudio", "network", "battery"],
-    "custom/arch": {
-      "format": "  ",
-      "on-click": "sh $HOME/.bin/power"
-    },
+    "modules-right": ["custom/weather", "custom/bb", "backlight", "pulseaudio", "network", "battery"],
     "wlr/workspaces": {
       "format": "{icon}",
       "on-click": "activate",
@@ -163,7 +159,7 @@
 "network": {
     "interface": "wlan0",
     "format": " Disabled",
-    "format-wifi": "  {signalStrength}%",
+    "format-wifi": " {signalStrength}%",
     "format-ethernet": "{ipaddr}/{cidr} ",
     "format-disconnected": "󰖪 Disconnected", //An empty format will hide the module.
     "tooltip-format": "{ifname} via {gwaddr} ",
