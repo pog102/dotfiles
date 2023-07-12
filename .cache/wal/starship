@@ -30,19 +30,19 @@ error_symbol = "[](#f38ba8)"
 vicmd_symbol = "[](#f9e2af)"
 
 [directory]
-format = "[]($style)[ ](bg:#0a101f fg:#ebe3da)[$path](bg:#0a101f fg:#E7D0AF bold)[ ]($style)"
-style = "bg:none fg:#0a101f"
+format = "[]($style)[ ](bg:#112838 fg:#ecd5d8)[$path](bg:#112838 fg:#DFA5B0 bold)[ ]($style)"
+style = "bg:none fg:#112838"
 truncation_length = 3
 truncate_to_repo=false
 
 [git_branch]
-format = "[]($style)[[ ](bg:#0a101f fg:#A2DD9D bold)$branch](bg:#0a101f fg:#9C674F)[ ]($style)"
-style = "bg:none fg:#0a101f"
+format = "[]($style)[[ ](bg:#112838 fg:#A2DD9D bold)$branch](bg:#112838 fg:#E17D8E)[ ]($style)"
+style = "bg:none fg:#112838"
 
 [git_status]
 # $all status$ahead_behind
-format = "[]($style)[$all_status$ahead_behind](bg:#0a101f fg:#b4befe)[ ]($style)"
-style = "bg:none fg:#0a101f"
+format = "[]($style)[$all_status$ahead_behind](bg:#112838 fg:#b4befe)[ ]($style)"
+style = "bg:none fg:#112838"
 conflicted = "="
 ahead =	"⇡${count}"
 behind = "⇣${count}"
@@ -58,8 +58,8 @@ deleted = "${count}"
 [cmd_duration]
 min_time = 1
 # duration & style 
-format = "[]($style)[[ ](bg:#0a101f fg:#eba0ac bold)$duration](bg:#0a101f fg:#E7D0AF)[ ]($style)"
+format = "[]($style)[[ ](bg:#112838 fg:#eba0ac bold)$duration](bg:#112838 fg:#DFA5B0)[ ]($style)"
 disabled = false
-style = "bg:none fg:#0a101f"
+style = "bg:none fg:#112838"
 
 
