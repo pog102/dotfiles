@@ -4,11 +4,11 @@ configuration {
 
 * {
     background-color:               transparent;
-    background:                     #0d101d;
-    background-transparent:         #0d101dD9;
-    /* background-transparent:         #0d101d; */
-    text-color:                     #a2a8bd;
-    primary:                        #3A435B;
-    secondary:                      #344471;
+    background:                     #051316;
+    background-transparent:         #051316D9;
+    /* background-transparent:         #051316; */
+    text-color:                     #a5bebf;
+    primary:                        #2D615F;
+    secondary:                      #445D66;
     urgent:                         #BF616A;
 }

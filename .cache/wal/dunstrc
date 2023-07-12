@@ -23,7 +23,7 @@
     horizontal_padding = 24
 
     # The frame color and width of the notification
-    frame_color = "#4E4975"
+    frame_color = "#496A74"
     frame_width = 0
 
     # How long a user needs to be idle for sticky notifications
@@ -47,28 +47,32 @@
     markup = full
 	#bar 
     progress_bar_frame_width = 1
-    #frame_color = "#664F79"
+    #frame_color = "#408673"
 
-    highlight="#4E4975"
+    highlight="#496A74"
     progress_bar_corner_radius = 20
     progress_bar_max_corner_radius = 40
    # transparency = 30
 [shortcuts]
     close = ctrl+space
     close_all = ctrl+shift+space
-    history = ctrl+grave
+    history = ctrl+h
 [urgency_low]
-    background ="#0d101d"
-    foreground ="#4E4975"
-    #foreground ="#a2a8bd"
+    background ="#051316"
+    #foreground ="#496A74"
+    foreground ="#a5bebf"
     timeout=3
 [urgency_normal]
-    background = "#0d101d"
-    foreground ="#4E4975"
-    #foreground = "#a2a8bd"
+    background = "#051316"
+    #foreground ="#496A74"
+    foreground = "#a5bebf"
     timeout=3
 
 [urgency_critical]
-    background = "#0d101d"
-    foreground = "#a2a8bd"
+    background = "#051316"
+    foreground = "#a5bebf"
     timeout=4
+[brightness]
+    # This notification will not be saved in history
+    appname="mediakeys"
+    history_ignore = yes
