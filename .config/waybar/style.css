@@ -88,8 +88,8 @@ tooltip {
     background-color: @background;
     color:#a6e3a1;
     /* font-weight: bolder; */
-    padding-left: 15px;
-    padding-right: 15px;
+    /* padding-left: 15px; */
+    /* padding-right: 15px; */
 }
 
 @keyframes blink {
