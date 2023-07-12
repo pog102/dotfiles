@@ -9,3 +9,4 @@
 .config/transmission-daemon/resume
 .config/transmission-daemon/torrents
 .config/mpv/watch_later
+.config/zoom.conf
