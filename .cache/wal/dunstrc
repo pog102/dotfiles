@@ -23,7 +23,7 @@
     horizontal_padding = 24
 
     # The frame color and width of the notification
-    frame_color = "#9A5B5C"
+    frame_color = "#7C827D"
     frame_width = 0
 
     # How long a user needs to be idle for sticky notifications
@@ -47,9 +47,9 @@
     markup = full
 	#bar 
     progress_bar_frame_width = 1
-    #frame_color = "#DA6A65"
+    #frame_color = "#B88E78"
 
-    highlight="#9A5B5C"
+    highlight="#7C827D"
     progress_bar_corner_radius = 20
     progress_bar_max_corner_radius = 40
    # transparency = 30
@@ -58,17 +58,17 @@
     close_all = ctrl+shift+space
     history = ctrl+grave
 [urgency_low]
-    background ="#1f1e24"
-    foreground ="#9A5B5C"
-    #foreground ="#ead2c7"
+    background ="#1a1e25"
+    foreground ="#7C827D"
+    #foreground ="#adbfcc"
     timeout=3
 [urgency_normal]
-    background = "#1f1e24"
-    foreground ="#9A5B5C"
-    #foreground = "#ead2c7"
+    background = "#1a1e25"
+    foreground ="#7C827D"
+    #foreground = "#adbfcc"
     timeout=3
 
 [urgency_critical]
-    background = "#1f1e24"
-    foreground = "#ead2c7"
+    background = "#1a1e25"
+    foreground = "#adbfcc"
     timeout=4

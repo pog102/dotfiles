@@ -20,7 +20,7 @@ echo -e "ipc=off" >> ~/.config/hypr/hyprpaper.conf
 #killall hyprpaper > /dev/null 2>&1
 #hyprpaper > /dev/null 2>&1 &
 killall dunst> /dev/null 2>&1
-# killall -SIGUSR2 waybar
-killall waybar
-waybar > /dev/null 2>&1 &
+killall -SIGUSR2 waybar
+# killall waybar
+# waybar > /dev/null 2>&1 &
 killall wally
