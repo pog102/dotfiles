@@ -6,3 +6,5 @@
 .config/bluetuith
 .config/gh
 .config/cef_user_data 
+.config/transmission-daemon/resume
+.config/transmission-daemon/torrents
