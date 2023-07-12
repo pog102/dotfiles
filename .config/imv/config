@@ -14,7 +14,7 @@ suppress_default_binds = true
 [binds]
 # Define some key bindings
 q = quit
-y = exec notify-send "Copied" "" && wl-copy < "$imv_current_file"
+y = exec notify-send -r 188 "Copied" "" && wl-copy < "$imv_current_file"
 
 # Image navigation
 <Left> = prev
