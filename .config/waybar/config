@@ -120,7 +120,8 @@
 "exec" : "/home/chad/.bin/torbar",
 "interval" : 30,
 "exec-if": "pgrep -f transmission-daemon",
-"tooltip": true
+"tooltip": true,
+        "return-type" : "json"
 },
 "custom/pacman": {
 "format":"󰇚 {}",

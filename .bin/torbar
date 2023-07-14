@@ -1,6 +1,6 @@
 #!/bin/sh
 tr=$(transmission-remote -l| grep %)
-tool=$(echo "$tr" | awk '{print $2 " " $10 " " $9}')
+tool=$(echo "$tr" | awk '{print $1 " " $2 " " $9 "\\n"}')
 first=$(echo "$tr" |
 	sed " # The letters are for sorting and will not appear.
 	s/.*Stopped.*/A 󰏃/;
@@ -10,4 +10,4 @@ first=$(echo "$tr" |
 	s/.*Uploading.*/L 󰕒/;
 	s/.*%.*/M /" |
     sort -h | uniq -c | awk '{print $3 " " $1}' | paste -sd ' ' -)
-echo '{"text":"'$first'","tooltip":"'tool'"}'
+echo '{"text":"'$first'","tooltip":"'$tool'"}'
