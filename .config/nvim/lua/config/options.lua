@@ -42,8 +42,26 @@ opt.undofile = true
 opt.undolevels = 10000
 opt.updatetime = 200 -- Save swap file and trigger CursorHold
 opt.wildmode = "longest:full,full" -- Command-line completion mode
+
+opt.autoindent = true
+opt.swapfile = false
+opt.termguicolors = true
 opt.winminwidth = 5 -- Minimum window width
 opt.wrap = true -- Disable line wrap
+opt.foldlevel = 99
+vim.o.foldcolumn = "1"
+opt.foldmethod = "expr"
+opt.foldexpr = "nvim_treesitter#foldexpr()"
+opt.foldenable = true
+opt.fillchars = {
+	foldopen = "",
+	foldclose = "",
+	fold = " ",
+	foldsep = " ",
+	diff = "/",
+	eob = " ",
+}
+opt.mousemoveevent = true
 
 if vim.fn.has("nvim-0.9.0") == 1 then
   opt.splitkeep = "screen"

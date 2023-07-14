@@ -1,6 +1,7 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = ","
 
+local utils = require("utils")
 local set = vim.keymap.set
 
 -- better up/down
