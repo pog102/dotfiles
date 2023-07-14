@@ -1,5 +1,6 @@
 #!/bin/sh
 tr=$(transmission-remote -l| grep %)
+[ -z "$tr" ] && exit
 tool=$(echo "$tr" | awk '{print $1 " " $2 " " $9 "\\n"}')
 first=$(echo "$tr" |
 	sed " # The letters are for sorting and will not appear.
