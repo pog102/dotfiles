@@ -1,5 +1,0 @@
-[colors]
-foreground={foreground.strip}
-background={background.strip}
-# alpha=1
-alpha=0.63
