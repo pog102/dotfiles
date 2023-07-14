@@ -1,6 +1,6 @@
 {
   "layer": "top",
-    "modules-left": ["custom/wf", "wlr/workspaces"],
+    "modules-left": ["wlr/workspaces", "disk"],
     "modules-center": ["clock"],
     "modules-right": ["custom/weather", "custom/bb", "backlight", "pulseaudio", "network", "battery"],
     "wlr/workspaces": {
@@ -69,9 +69,9 @@
 
 "disk": {
             "signal": 1,
-        "format": "Icon {used}",
-	"interval": "once",
-    "path": "/media/USB"
+        "format": " {percentage_used}%",
+      "interval": 50,
+    "path": "/home"
 },
 
 "custom/wf": {

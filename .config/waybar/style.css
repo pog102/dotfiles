@@ -55,7 +55,7 @@ tooltip {
   color: @color2;
 }
 
- #custom-wf,  #bluetooth, #backlight, #pulseaudio, #network, #battery{
+ #custom-wf,  #bluetooth{
   color: @color3;
 }
 
@@ -67,6 +67,10 @@ tooltip {
 }
  #network{
   color: @color6;
+}
+
+#disk{
+  color: @color3;
 }
 #clock {
   margin-right: 0;
