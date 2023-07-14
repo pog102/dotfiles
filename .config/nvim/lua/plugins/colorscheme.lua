@@ -14,7 +14,6 @@ return {
       term_colors = true,
       dim_inactive = {
         enabled = false,
-        shade = "dark",
         percentage = 0.15,
       },
       no_italic = false,
