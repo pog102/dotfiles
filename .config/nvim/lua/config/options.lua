@@ -1,8 +1,7 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
-
 local opt = vim.opt
-
+vim.cmd("highlight Pmenu guibg=NONE")
 opt.wildignore = "*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx,*DS_STORE,*.db"
 opt.autowrite = true -- Enable auto write
 opt.clipboard = "unnamedplus" -- Sync with system clipboard
@@ -63,7 +62,7 @@ opt.fillchars = {
 	eob = " ",
 }
 opt.mousemoveevent = true
-
+opt.pumblend = 0
 if vim.fn.has("nvim-0.9.0") == 1 then
   opt.splitkeep = "screen"
   opt.shortmess:append { C = true }
