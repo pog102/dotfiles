@@ -2,7 +2,7 @@
   "layer": "top",
     "modules-left": ["wlr/workspaces", "disk"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/weather", "custom/bb", "backlight", "pulseaudio", "network", "battery"],
+    "modules-right": ["custom/weather", "custom/bb", "custom/pacman", "backlight", "pulseaudio", "network", "battery"],
     "wlr/workspaces": {
       "format": "{icon}",
       "on-click": "activate",
@@ -115,6 +115,12 @@
         "tooltip": true
 },
 
+"custom/pacman": {
+"format":"󰇚 {}",
+"exec" : "(paru -Qua) | wc -l",
+"exec-if":"0",
+"interval" : 7200
+},
  "custom/weather" : {
         //shows the current weather and forecast
         "tooltip" : true,
@@ -126,14 +132,6 @@
         "return-type" : "json"
     },
 
-          "custom/pacman":{
-        "format": " </span>{}",
-            "signal": 19,
-        "exec": "checkupdates | wc -l",
-        "exec-if": "[[ $(checkupdates | wc -l) != 0 ]]",
-        "interval": 320,
-        "on-click": "foot -e paru -Syu;pkill -RTMIN+19 waybar"
-   },
 
 "bluetooth": {
 	"format-on": " ",

@@ -72,6 +72,10 @@ tooltip {
 #disk{
   color: @color3;
 }
+
+#custom-pacman{
+  color: @color7;
+}
 #clock {
   margin-right: 0;
 }
