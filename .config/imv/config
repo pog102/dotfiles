@@ -15,6 +15,7 @@ suppress_default_binds = true
 # Define some key bindings
 q = quit
 y = exec notify-send -r 188 "Copied" "" && wl-copy < "$imv_current_file"
+x = exec rm "$imv_current_file"; close
 
 # Image navigation
 <Left> = prev
@@ -42,7 +43,7 @@ o = zoom -1
 <Ctrl+r> = rotate by 90
 
 # Other commands
-x = close
+k = close
 f = fullscreen
 d = overlay
 p = exec echo $imv_current_file
