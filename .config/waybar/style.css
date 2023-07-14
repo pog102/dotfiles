@@ -40,7 +40,7 @@ tooltip {
   color: @foreground;
 }
 
-#clock, #custom-bb, #disk, #custom-pacman, #custom-weather,#custom-wf,  #bluetooth, #backlight, #pulseaudio, #network, #battery{
+#clock, #custom-torrent, #custom-bb, #disk, #custom-pacman, #custom-weather,#custom-wf,  #bluetooth, #backlight, #pulseaudio, #network, #battery{
   border-radius: 13px;
   background-color: @color0;
   color: @foreground;
@@ -75,6 +75,10 @@ tooltip {
 
 #custom-pacman{
   color: @color7;
+}
+
+#custom-torrent{
+  color: @color9;
 }
 #clock {
   margin-right: 0;

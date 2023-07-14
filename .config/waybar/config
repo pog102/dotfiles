@@ -1,6 +1,6 @@
 {
   "layer": "top",
-    "modules-left": ["wlr/workspaces", "disk"],
+    "modules-left": ["wlr/workspaces", "disk", "custom/torrent"],
     "modules-center": ["clock"],
     "modules-right": ["custom/weather", "custom/bb", "custom/pacman", "backlight", "pulseaudio", "network", "battery"],
     "wlr/workspaces": {
@@ -115,6 +115,12 @@
         "tooltip": true
 },
 
+"custom/torrent": {
+"format":"{}",
+"exec" : "/home/chad/.bin/torbar",
+"interval" : 30,
+"exec-if": "pgrep -f transmission-daemon"
+},
 "custom/pacman": {
 "format":"󰇚 {}",
 "exec" : "(paru -Qua) | wc -l",
