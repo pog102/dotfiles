@@ -123,10 +123,13 @@
         "return-type" : "json"
 },
 "custom/pacman": {
-"format":"󰇚 {}",
-"exec" : "(paru -Qua) | wc -l",
-"exec-if":"0",
-"interval" : 7200
+  "format": "{icon}{}",
+  "return-type": "json",
+  "format-icons": {
+    "pending-updates": " ",
+  },
+  "exec-if": "which waybar-updates",
+  "exec": "waybar-updates"
 },
  "custom/weather" : {
         //shows the current weather and forecast
