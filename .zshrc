@@ -11,12 +11,20 @@ autoload -U colors && colors
 eval "$(starship init zsh)"
 # eval "$(starship init zsh)"
 # History in cache directory:
+if [ ! -f /tmp/.neofetch ]; then
+  touch /tmp/.neofetch
+  neofetch
+fi
 HISTSIZE=10000
 SAVEHIST=10000
 HISTFILE=~/.zsh_history
 setopt HIST_IGNORE_ALL_DUPS
 # setopt HIST_FIND_NO_DUPS
 # Basic auto/tab complete:
+# if [ ! -a /tmp/neofetch ]; then
+#   touch /tmp/neofecth
+#   neofetch
+# fi
 autoload -U compinit
 zstyle ':completion:*' menu select
 zmodload zsh/complist
