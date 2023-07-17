@@ -2,7 +2,7 @@
   "layer": "top",
     "modules-left": ["wlr/workspaces", "disk", "custom/torrent"],
     "modules-center": ["clock"],
-    "modules-right": ["custom/weather", "custom/bb", "custom/pacman", "backlight", "pulseaudio", "network", "battery"],
+    "modules-right": ["custom/weather", "custom/bb", "backlight", "pulseaudio", "network", "battery"],
     "wlr/workspaces": {
       "format": "{icon}",
       "on-click": "activate",
