@@ -1,5 +1,0 @@
-#!/bin/sh
-if [ ! -f /tmp/.neofetch ]; then
-  touch /tmp/.neofetch
-  neofetch
-fi
