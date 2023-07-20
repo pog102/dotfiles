@@ -1,6 +1,8 @@
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 # Luke's config for the Zoomer Shell
+
+export PATH=/home/chad/.cargo/bin:$PATH
 export PATH=$HOME/.bin:$PATH
 export PATH=$HOME/.local/bin:$PATH
 export MANPAGER="sh -c 'col -bx | bat -l man -p'"
