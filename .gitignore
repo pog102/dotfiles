@@ -11,3 +11,11 @@
 .config/transmission-daemon/torrents
 .config/mpv/watch_later
 .config/zoom.conf
+.config/GIMP
+.config/dconf
+.config/xfce4
+.config/QtProject.conf
+.config/karboncalligraphyrc
+.config/kritadisplayrc
+.config/kritarc
+.config/partitionmanagerrc
