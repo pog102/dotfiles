@@ -9,8 +9,10 @@ com="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
   $com add ~/.local/share/icons
   $com commit -am "dot"
   $com push
-  else
-  $com $1 $2 $3 $4
+  elif [ "add" == "$1" ];then
+  $com add "$@" 
   $com commit -am "dot"
   $com push
+else
+  $com "$@"
   fi
