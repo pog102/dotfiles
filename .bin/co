@@ -1,4 +1,5 @@
 #!/bin/sh
+#test
 com="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
   if [ "all" == "$1" ]; then
   $com add ~/.config
