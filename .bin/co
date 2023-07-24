@@ -10,7 +10,7 @@ com="/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME"
   $com commit -am "dot"
   $com push
   elif [ "add" == "$1" ];then
-  $com add "$@" 
+  $com "$@" 
   $com commit -am "dot"
   $com push
 else
