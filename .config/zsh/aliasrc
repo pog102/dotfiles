@@ -4,7 +4,7 @@ alias my_ip="ip addr show wlan0 | awk '/inet / {print $2}'"
 alias mpvp="mpvpaper -p -f -o --loop eDP-1"
 alias password="nmcli device wifi show-password"
 alias up="paru;pkill -RTMIN+19 waybar"
-alias dots="git clone https://github.com/pog102/installer"
+alias dots="git clone git@github.com:pog102/installer"
 alias ban="sudo pacman -Rcns"
 alias r="reboot"
 alias on="bluetoothctl power on"
@@ -13,7 +13,7 @@ alias ss="shutdown now"
 alias usb="sudo umount -l /dev/sda"
 alias clean="sudo paru -Scc --noconfirm"
 alias bl="bluetuith"
-alias arch_iso(){
+arch_iso (){
   sudo mkarchiso -v -w ~/arch_sio/out -o ~/Archiso/out ~/Archiso/releng/
   [ -e /dev/sdb ] && dd if=/home/chad/Archiso/out/arch*iso of=/dev/sdb bs=64K conv=noerror,sync status=progress
 }
