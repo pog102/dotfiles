@@ -14,8 +14,8 @@ alias usb="sudo umount -l /dev/sda"
 alias clean="sudo paru -Scc --noconfirm"
 alias bl="bluetuith"
 arch_iso (){
-  sudo mkarchiso -v -w ~/arch_sio/out -o ~/Archiso/out ~/Archiso/releng/
-  [ -e /dev/sdb ] && dd if=/home/chad/Archiso/out/arch*iso of=/dev/sdb bs=64K conv=noerror,sync status=progress
+  sudo -i
+  mkarchiso -v -w ~/Archiso/out -o ~/Archiso/out ~/Archiso/releng/ && [ -e /dev/sdb ] &&  cat /home/chad/Archiso/out/arch*iso > /dev/sdb
 }
 alias c="clifm"
 alias ns="nsxiv"
