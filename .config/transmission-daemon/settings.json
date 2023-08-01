@@ -60,7 +60,7 @@
     "scrape-paused-torrents-enabled": true,
     "script-torrent-added-enabled": false,
     "script-torrent-added-filename": "",
-    "script-torrent-done-enabled": true,
+    "script-torrent-done-enabled": false,
     "script-torrent-done-filename": "/home/chad/.bin/tordone",
     "script-torrent-done-seeding-enabled": false,
     "script-torrent-done-seeding-filename": "",
